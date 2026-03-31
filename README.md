@@ -20,7 +20,7 @@
 </p>
 
 
-  <h3 align="center"><a href="https://neaf-audio.github.io/NeAF-Audio/">🌐Project page</a> | <a href="https://ojs.aaai.org/index.php/AAAI/article/view/34624">📝Paper (AAAI) | <a href="https://arxiv.org/abs/2601.06406">📝Paper (arXiv)</a></h3>
+  <h3 align="center"><a href="https://lif314.github.io/projects/neaf/">🌐Project page</a> | <a href="https://ojs.aaai.org/index.php/AAAI/article/view/34624">📝Paper (AAAI) | <a href="https://arxiv.org/abs/2601.06406">📝Paper (arXiv)</a></h3>
   <div align="center"></div>
 </p>
 
